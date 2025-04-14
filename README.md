@@ -2,7 +2,7 @@
 
 It contains a classification model with three layers of MLP for cifar10 dataset.
 
-You can find my model in tools.py.
+You can find my model in $ \textbf{tools.py} $.
 
 You can start training in hw2.ipynb.
 
