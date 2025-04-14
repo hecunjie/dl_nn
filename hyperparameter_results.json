@@ -1,0 +1,130 @@
+[
+    {
+        "learning_rate": 0.001,
+        "hidden1_size": 1024,
+        "hidden2_size": 512,
+        "l2_lambda": 0.01,
+        "val_acc": 0.4066,
+        "test_acc": 0.4131
+    },
+    {
+        "learning_rate": 0.001,
+        "hidden1_size": 1024,
+        "hidden2_size": 512,
+        "l2_lambda": 0.05,
+        "val_acc": 0.3966,
+        "test_acc": 0.408
+    },
+    {
+        "learning_rate": 0.001,
+        "hidden1_size": 1024,
+        "hidden2_size": 1024,
+        "l2_lambda": 0.01,
+        "val_acc": 0.4104,
+        "test_acc": 0.4118
+    },
+    {
+        "learning_rate": 0.001,
+        "hidden1_size": 1024,
+        "hidden2_size": 1024,
+        "l2_lambda": 0.05,
+        "val_acc": 0.3962,
+        "test_acc": 0.397
+    },
+    {
+        "learning_rate": 0.001,
+        "hidden1_size": 2048,
+        "hidden2_size": 512,
+        "l2_lambda": 0.01,
+        "val_acc": 0.3996,
+        "test_acc": 0.4049
+    },
+    {
+        "learning_rate": 0.001,
+        "hidden1_size": 2048,
+        "hidden2_size": 512,
+        "l2_lambda": 0.05,
+        "val_acc": 0.3856,
+        "test_acc": 0.3908
+    },
+    {
+        "learning_rate": 0.001,
+        "hidden1_size": 2048,
+        "hidden2_size": 1024,
+        "l2_lambda": 0.01,
+        "val_acc": 0.3992,
+        "test_acc": 0.3993
+    },
+    {
+        "learning_rate": 0.001,
+        "hidden1_size": 2048,
+        "hidden2_size": 1024,
+        "l2_lambda": 0.05,
+        "val_acc": 0.4138,
+        "test_acc": 0.4194
+    },
+    {
+        "learning_rate": 0.0001,
+        "hidden1_size": 1024,
+        "hidden2_size": 512,
+        "l2_lambda": 0.01,
+        "val_acc": 0.4878,
+        "test_acc": 0.4941
+    },
+    {
+        "learning_rate": 0.0001,
+        "hidden1_size": 1024,
+        "hidden2_size": 512,
+        "l2_lambda": 0.05,
+        "val_acc": 0.4956,
+        "test_acc": 0.4977
+    },
+    {
+        "learning_rate": 0.0001,
+        "hidden1_size": 1024,
+        "hidden2_size": 1024,
+        "l2_lambda": 0.01,
+        "val_acc": 0.4974,
+        "test_acc": 0.4927
+    },
+    {
+        "learning_rate": 0.0001,
+        "hidden1_size": 1024,
+        "hidden2_size": 1024,
+        "l2_lambda": 0.05,
+        "val_acc": 0.5016,
+        "test_acc": 0.5037
+    },
+    {
+        "learning_rate": 0.0001,
+        "hidden1_size": 2048,
+        "hidden2_size": 512,
+        "l2_lambda": 0.01,
+        "val_acc": 0.5112,
+        "test_acc": 0.5059
+    },
+    {
+        "learning_rate": 0.0001,
+        "hidden1_size": 2048,
+        "hidden2_size": 512,
+        "l2_lambda": 0.05,
+        "val_acc": 0.5152,
+        "test_acc": 0.5156
+    },
+    {
+        "learning_rate": 0.0001,
+        "hidden1_size": 2048,
+        "hidden2_size": 1024,
+        "l2_lambda": 0.01,
+        "val_acc": 0.517,
+        "test_acc": 0.5183
+    },
+    {
+        "learning_rate": 0.0001,
+        "hidden1_size": 2048,
+        "hidden2_size": 1024,
+        "l2_lambda": 0.05,
+        "val_acc": 0.5238,
+        "test_acc": 0.5218
+    }
+]
